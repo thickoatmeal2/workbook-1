@@ -9,5 +9,8 @@ public class Main {
         greeting = word1 + " " + word2 + "!";
         /// @author
         System.out.println("Hello, World!");
+
+        float taxrate = 0.15f;
+        System.out.println(taxrate);
     }
 }
